@@ -11,3 +11,12 @@
   - 덕분에 작은 것이라도 목표세우는 습관이 생김
 - REST API, 웹 최적화, 병렬프로그래밍, nosql, kafka 에 대해 관심을 갖고 조금씩 꾸준히 정리해나가는 중
 
+- 블로그
+  - 2021 스터디 내용들
+    - 정리를 더 하고, 더 다듬어야 하는데 매번 힘들다는 생각이 들기는 하고 있다. 꾸준히 정리하고 다듬는 중.
+    - [https://playmymind.gitbook.io/2021-gitbook-v1/](https://playmymind.gitbook.io/2021-gitbook-v1/) 
+  - 45살 파이어족 되기 10년 계획 재테크 공부 블로그
+    - 일단은 내 눈에 띄였던 URL 들만 정리를 시작
+    - 개인적인 의견보다는 요약위주 & URL 스크랩용도
+    - [https://playmymind.gitbook.io/useful-tip-moneytech/](https://playmymind.gitbook.io/useful-tip-moneytech/)
+
