@@ -1,14 +1,13 @@
-`github/gosgjung`
+**I'm just keep running!!**
 
-- 공부해봐야겠다고 결심한 모든 것들을 저장하는 저장소
-- 부족하면 부족한대로 노력해나가는 공간
+![이미지](https://soles.michelin.com/wp-content/uploads/2021/04/Sunrise-running-FB.jpeg)
 
-![이미지](./img/2021-08/1.png)
-
-[이미지출처 - 나무위키](https://namu.wiki/jump/wpoMkUYqml4goQ2KPW4EL%2Fbvd%2FmewBa1B9892fm763A6JOhNESbQVP0PD%2FPvSvJ8l0ANNuqlqO9nCQOX5vBnKg%3D%3D) <br>
-
-- 일기장 처럼 사용해왔는데, 뭔가 이제는 더 이상 나만의 공간이 아니게 된것 같다는 생각이 들어 씁쓸하긴 하다.
-- 해왔던 거 깔끔하게 잘 정리하는 것도 중요하다!!! 요즘 반성중.
+[이미지 출처](https://soles.michelin.com/running-pace-conversion-chart/)
 
 <br>
 
+- 부족하다고 생각하는 것들을 시행착오를 거치며 공부해가는 저장소
+- 일주일에 한번씩 밤샘의 결과물들을 저장하기 시작한 곳
+- 매일의 나 자신을 반성하며 또 그걸 한 단계씩 깨나가는 곳!!!
+
+<br>
