@@ -1,13 +1,4 @@
-**I'm just keep running!!**
+![이미지](https://image.freepik.com/free-vector/tiger-is-the-chinese-symbol-of-the-new-year-2022-happy-new-year-2022-card-design-greeting-card-invitation-with-tiger-hair-texture-new-year-banner-for-congratulations-vector-illustration_509073-224.jpg)
 
-![이미지](https://soles.michelin.com/wp-content/uploads/2021/04/Sunrise-running-FB.jpeg)
+2022년!!! 가자~!! :) <br>
 
-[이미지 출처](https://soles.michelin.com/running-pace-conversion-chart/)
-
-<br>
-
-- 부족하다고 생각하는 것들을 시행착오를 거치며 공부해가는 저장소
-- 일주일에 한번씩 밤샘의 결과물들을 저장하기 시작한 곳
-- 매일의 나 자신을 반성하며 또 그걸 한 단계씩 깨나가는 곳!!!
-
-<br>
